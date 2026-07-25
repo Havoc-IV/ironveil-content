@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2026-07-25-app-launch",
+    "title": "The Official Ironveil Interactive App Is Here",
+    "date": "2026-07-25",
+    "type": "announcement",
+    "summary": "One place to follow every Ironveil project, read development updates, and find the community.",
+    "body": "We have wanted a single home for everything Ironveil for a long time, and this is it.\n\nThe app gives you our full project list with live development status, a public roadmap so you can see what we are working on and what comes next, development updates and patch notes as we publish them, details on the Creator Program, and every community link in one place.\n\nContent updates land in the app as soon as we publish them — you will not need to update the app to see new posts.\n\nThis is version 1.0 and it will grow. Accounts, notifications, and downloading add-ons straight from the app are all on the roadmap. Tell us what you want to see in Discord."
+  },
+  {
+    "id": "2026-07-25-unnamed-available",
+    "title": "The Unnamed Is Available on CurseForge",
+    "date": "2026-07-25",
+    "type": "release",
+    "project": "the-unnamed",
+    "summary": "Five voiced story scenes, a hunt that adapts to how you play, and a real ending. Out now, and still in development.",
+    "body": "The Unnamed is up on CurseForge and you can play it now.\n\nYou wake up somewhere you don't recognise. Jeff finds you before it does — he has been surviving this place for eleven years. Elias didn't.\n\nWhat's in it:\n\n- Five fully voiced story scenes with timed subtitles\n- An escalating hunt cycle that runs indefinitely until you end it\n- A sanity system with light-based counterplay\n- Behaviour that adapts to how you personally play\n- A real final boss fight, with a proper ending and credits\n- An in-game settings menu (sneak + right-click) with per-channel volume\n\nThis is not a finished project. It is playable start to finish, and we are still working on it — polish, fixes, and more story work are ongoing. If you hit something broken, tell us in Discord. That feedback goes straight into the next build.\n\nThe roadmap in this app is where you can watch it progress."
+  },
+  {
+    "id": "2026-07-25-creator-program-open",
+    "title": "The Creator Program Is Open",
+    "date": "2026-07-25",
+    "type": "announcement",
+    "summary": "Early access builds, brand assets, and direct access to the dev team — applications are open through Discord.",
+    "body": "If you make content around Minecraft add-ons, we want to work with you.\n\nThe Ironveil Creator Program gives you early access builds ahead of public release, a private channel with direct access to the dev team, logos and key art cleared for use in your content, and real input on features before they ship. Your work gets featured on our channels and in this app.\n\nApplications run through Discord for now — join the server, head to the Creator Program channel, and read the pinned post. A proper application form is on the way.\n\nWe review in batches and reply either way."
+  }
+]

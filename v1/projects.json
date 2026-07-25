@@ -1,0 +1,77 @@
+[
+  {
+    "id": "the-unnamed",
+    "title": "The Unnamed",
+    "tagline": "You wake up somewhere you don't recognise. Something already knows you're here.",
+    "category": "minecraft-addon",
+    "status": "in-development",
+    "version": "1.0",
+    "description": "You wake up somewhere you don't recognise, with no memory of how you got there. A man called Jeff finds you before it does — he has been surviving this place for eleven years, and he is not the only one who tried.\n\nThe Unnamed is a voice-acted horror story told across five scenes, wrapped around a hunt that does not stop. It learns how you play. It follows how you hide. Light keeps you sane, and light runs out.\n\nIt ends the only way it can: you face it, or it takes you.",
+    "features": [
+      "Five fully voiced story scenes with timed subtitles",
+      "Two characters: Jeff, who has survived here eleven years, and Elias, who didn't",
+      "An escalating hunt cycle that runs indefinitely until you end it",
+      "A sanity system with light-based counterplay",
+      "Behaviour that adapts to how you personally play",
+      "A real final boss fight, with a proper ending and credits",
+      "In-game settings menu (sneak + right-click) with per-channel volume controls"
+    ],
+    "screenshots": [],
+    "featured": true,
+    "links": [
+      {
+        "label": "Download on CurseForge",
+        "url": "https://www.curseforge.com/minecraft-bedrock/addons/the-unnamed"
+      }
+    ]
+  },
+  {
+    "id": "tactical-villagers",
+    "title": "Tactical Villagers",
+    "tagline": "Your villagers stopped running.",
+    "category": "minecraft-addon",
+    "status": "released",
+    "version": "1.0",
+    "description": "Tactical Villagers turns the most helpless mob in the game into something worth keeping alive.\n\nThe CurseForge listing is pending approval — the download link will appear here as soon as it goes live.",
+    "features": [],
+    "screenshots": [],
+    "featured": true,
+    "links": []
+  },
+  {
+    "id": "the-unnamed-skins",
+    "title": "The Unnamed — Skins",
+    "tagline": "A companion skin pack for The Unnamed.",
+    "category": "upcoming",
+    "status": "concept",
+    "version": "—",
+    "description": "A skin pack built around the cast and creatures of The Unnamed. Early concept — nothing to show yet.",
+    "features": [],
+    "screenshots": [],
+    "links": []
+  },
+  {
+    "id": "karma-system",
+    "title": "Karma System",
+    "tagline": "The world remembers what you do.",
+    "category": "upcoming",
+    "status": "concept",
+    "version": "—",
+    "description": "An add-on where your actions carry consequences the world tracks and reacts to. Early concept — still working out what it becomes.",
+    "features": [],
+    "screenshots": [],
+    "links": []
+  },
+  {
+    "id": "lucky-dirt",
+    "title": "Lucky Dirt",
+    "tagline": "A lucky block, but dirt.",
+    "category": "upcoming",
+    "status": "concept",
+    "version": "—",
+    "description": "Exactly what it sounds like. A lucky block add-on built entirely around the least lucky block in the game. Early concept.",
+    "features": [],
+    "screenshots": [],
+    "links": []
+  }
+]
