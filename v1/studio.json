@@ -1,0 +1,16 @@
+{
+  "name": "Ironveil Interactive",
+  "tagline": "Independent game development studio",
+  "welcome": "Welcome to the official Ironveil Interactive app. Follow our projects, read development updates, and join the community.",
+  "about": "Ironveil Interactive is an independent game development studio creating immersive experiences across games and Minecraft add-ons. Currently focused on high-quality Minecraft add-ons, with plans to expand into original games in the future.",
+  "vision": "We build worlds worth getting lost in. Whether it runs inside Minecraft or stands on its own, every Ironveil project is held to the same bar: thoughtful design, real polish, and respect for the players who spend their time with it.",
+  "currentFocus": "Right now our focus is high-quality Minecraft add-ons. The Unnamed and Tactical Villagers are where our development effort goes today, and they are how we sharpen the craft we will carry into our original titles.",
+  "futureGoals": [
+    "Ship our first original game as an independent studio",
+    "Keep releasing add-ons that raise the bar for what Minecraft content can be",
+    "Grow the Ironveil Creator Program into a genuine partnership with creators",
+    "Build a download system so you can get our add-ons straight from this app",
+    "Launch the official Ironveil website and project hub"
+  ],
+  "foundedYear": 2026
+}
